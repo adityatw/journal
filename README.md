@@ -1,4 +1,4 @@
-# ✍️ Journal Analyzer with LLM
+# ✍️ Journal Analyzer with Local LLM
 ### Author: Aditya Wresniyandaka, Fall 2025
 
 ## 📌 Objective
