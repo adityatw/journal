@@ -146,4 +146,4 @@ Some portions of this document were co-authored with [OpenAI ChatGPT](https://ch
 
 Design and code © 2025 <a href="https://www.linkedin.com/in/aditya-wresniyandaka-3b2670" target = "_blank">Aditya Wresniyandaka</a> | Built and tested with Python 3.12/3.13
 <br><small>Disclaimer: the output from the model may be inaccurate, incomplete or obsolete. Model may and can hallucinate.
-<br><i>This app wasn't built to chase fads, hashtags, or social media buzzwords — it's the product of curiosity and intellectual rigor. I built it because I couldn’t stop thinking about it.</i></small>
+<br><p><i>This app wasn't built to chase fads, hashtags, or social media buzzwords — it's the product of curiosity and intellectual rigor. I built it because I couldn’t stop thinking about it.</i></small>
