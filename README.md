@@ -74,13 +74,16 @@ The main elements of the architecture are:
 ## ⚙️ Getting started
 ### Setup prerequisites
 <ul>
-<li>Windows users: Install WSL2 and a Linux distribution of your choice.
-<li>Linux users: Install Podman. Ensure it’s working by running:
+<li>Windows users: install WSL2 and a Linux distribution of your choice + install Podman inside the Linux environment.
+<li>Linux users: install Podman. 
+</ul>
+Ensure Podman is working by running:
 
 ```
 podman info
 ```
-</ul>
+> Note: Docker can be used as an alternative to Podman, but this project is tested primarily with Podman.
+<p>
 These are the basic steps to get started with the Journal Analyzer using a local LLM:
 <ol>
 <li>Run Ollama Pod in WSL (Windows) or native Podman (Linux), for example:
