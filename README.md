@@ -139,7 +139,7 @@ If you find the code useful and plan to use it in your work, please cite or link
   author       = {Aditya Wresniyandaka},
   title        = {Journal Analyzer with Local LLM},
   year         = {2025},
-  howpublished = {\url{https://github.com/adityatw/lorajournal}},
+  howpublished = {\url{https://github.com/adityatw/journal}},
   note         = {GitHub repository}
 }
 ```
